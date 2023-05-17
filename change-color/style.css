@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+  }
+  
+  section {
+    margin: 100px 100px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .cont {
+    width: 500px;
+    height: 500px;
+  }
+  
+  .colors {
+    outline: none;
+    border: none;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .randomColorBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    margin-left: 3rem;
+    cursor: pointer;
+  }
+  
